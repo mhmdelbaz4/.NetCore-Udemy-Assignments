@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Assigmnets\\.NetCore-Udemy-Assignments\\4.BankApp-Controllers\\wwwroot\\SQL Server Fundamentals.pdf",
+      "PackagePath": "staticwebassets\\SQL Server Fundamentals.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.4.BankApp-Controllers.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.4.BankApp-Controllers.props",
+      "PackagePath": "build\\4.BankApp-Controllers.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.4.BankApp-Controllers.props",
+      "PackagePath": "buildMultiTargeting\\4.BankApp-Controllers.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.4.BankApp-Controllers.props",
+      "PackagePath": "buildTransitive\\4.BankApp-Controllers.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

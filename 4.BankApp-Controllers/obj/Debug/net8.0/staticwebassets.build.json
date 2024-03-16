@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "tTmm3UB/pNN99n7Fm1CxHLrUMdo/WLhmE66h4PWDSq8=",
+  "Source": "4.BankApp-Controllers",
+  "BasePath": "_content/4.BankApp-Controllers",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "4.BankApp-Controllers\\wwwroot",
+      "Source": "4.BankApp-Controllers",
+      "ContentRoot": "D:\\Assigmnets\\.NetCore-Udemy-Assignments\\4.BankApp-Controllers\\wwwroot\\",
+      "BasePath": "_content/4.BankApp-Controllers",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Assigmnets\\.NetCore-Udemy-Assignments\\4.BankApp-Controllers\\wwwroot\\SQL Server Fundamentals.pdf",
+      "SourceId": "4.BankApp-Controllers",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Assigmnets\\.NetCore-Udemy-Assignments\\4.BankApp-Controllers\\wwwroot\\",
+      "BasePath": "_content/4.BankApp-Controllers",
+      "RelativePath": "SQL Server Fundamentals.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\SQL Server Fundamentals.pdf"
+    }
+  ]
+}
