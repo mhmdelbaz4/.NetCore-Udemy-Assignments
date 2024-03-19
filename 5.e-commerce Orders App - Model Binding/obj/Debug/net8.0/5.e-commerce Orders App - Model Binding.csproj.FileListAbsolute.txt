@@ -1,0 +1,26 @@
+D:\Assigmnets\.NetCore-Udemy-Assignments\5.e-commerce Orders App - Model Binding\bin\Debug\net8.0\appsettings.Development.json
+D:\Assigmnets\.NetCore-Udemy-Assignments\5.e-commerce Orders App - Model Binding\bin\Debug\net8.0\appsettings.json
+D:\Assigmnets\.NetCore-Udemy-Assignments\5.e-commerce Orders App - Model Binding\bin\Debug\net8.0\5.e-commerce Orders App - Model Binding.exe
+D:\Assigmnets\.NetCore-Udemy-Assignments\5.e-commerce Orders App - Model Binding\bin\Debug\net8.0\5.e-commerce Orders App - Model Binding.deps.json
+D:\Assigmnets\.NetCore-Udemy-Assignments\5.e-commerce Orders App - Model Binding\bin\Debug\net8.0\5.e-commerce Orders App - Model Binding.runtimeconfig.json
+D:\Assigmnets\.NetCore-Udemy-Assignments\5.e-commerce Orders App - Model Binding\bin\Debug\net8.0\5.e-commerce Orders App - Model Binding.dll
+D:\Assigmnets\.NetCore-Udemy-Assignments\5.e-commerce Orders App - Model Binding\bin\Debug\net8.0\5.e-commerce Orders App - Model Binding.pdb
+D:\Assigmnets\.NetCore-Udemy-Assignments\5.e-commerce Orders App - Model Binding\obj\Debug\net8.0\5.e-commerce Orders App - Model Binding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assigmnets\.NetCore-Udemy-Assignments\5.e-commerce Orders App - Model Binding\obj\Debug\net8.0\5.e-commerce Orders App - Model Binding.AssemblyInfoInputs.cache
+D:\Assigmnets\.NetCore-Udemy-Assignments\5.e-commerce Orders App - Model Binding\obj\Debug\net8.0\5.e-commerce Orders App - Model Binding.AssemblyInfo.cs
+D:\Assigmnets\.NetCore-Udemy-Assignments\5.e-commerce Orders App - Model Binding\obj\Debug\net8.0\5.e-commerce Orders App - Model Binding.csproj.CoreCompileInputs.cache
+D:\Assigmnets\.NetCore-Udemy-Assignments\5.e-commerce Orders App - Model Binding\obj\Debug\net8.0\5.e-commerce Orders App - Model Binding.MvcApplicationPartsAssemblyInfo.cache
+D:\Assigmnets\.NetCore-Udemy-Assignments\5.e-commerce Orders App - Model Binding\obj\Debug\net8.0\5.e-commerce Orders App - Model Binding.sourcelink.json
+D:\Assigmnets\.NetCore-Udemy-Assignments\5.e-commerce Orders App - Model Binding\obj\Debug\net8.0\staticwebassets.build.json
+D:\Assigmnets\.NetCore-Udemy-Assignments\5.e-commerce Orders App - Model Binding\obj\Debug\net8.0\staticwebassets.development.json
+D:\Assigmnets\.NetCore-Udemy-Assignments\5.e-commerce Orders App - Model Binding\obj\Debug\net8.0\staticwebassets\msbuild.5.e-commerce Orders App - Model Binding.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Assigmnets\.NetCore-Udemy-Assignments\5.e-commerce Orders App - Model Binding\obj\Debug\net8.0\staticwebassets\msbuild.build.5.e-commerce Orders App - Model Binding.props
+D:\Assigmnets\.NetCore-Udemy-Assignments\5.e-commerce Orders App - Model Binding\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.5.e-commerce Orders App - Model Binding.props
+D:\Assigmnets\.NetCore-Udemy-Assignments\5.e-commerce Orders App - Model Binding\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.5.e-commerce Orders App - Model Binding.props
+D:\Assigmnets\.NetCore-Udemy-Assignments\5.e-commerce Orders App - Model Binding\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Assigmnets\.NetCore-Udemy-Assignments\5.e-commerce Orders App - Model Binding\obj\Debug\net8.0\scopedcss\bundle\5.e-commerce Orders App - Model Binding.styles.css
+D:\Assigmnets\.NetCore-Udemy-Assignments\5.e-commerce Orders App - Model Binding\obj\Debug\net8.0\5.e-commerce Orders App - Model Binding.dll
+D:\Assigmnets\.NetCore-Udemy-Assignments\5.e-commerce Orders App - Model Binding\obj\Debug\net8.0\refint\5.e-commerce Orders App - Model Binding.dll
+D:\Assigmnets\.NetCore-Udemy-Assignments\5.e-commerce Orders App - Model Binding\obj\Debug\net8.0\5.e-commerce Orders App - Model Binding.pdb
+D:\Assigmnets\.NetCore-Udemy-Assignments\5.e-commerce Orders App - Model Binding\obj\Debug\net8.0\5.e-commerce Orders App - Model Binding.genruntimeconfig.cache
+D:\Assigmnets\.NetCore-Udemy-Assignments\5.e-commerce Orders App - Model Binding\obj\Debug\net8.0\ref\5.e-commerce Orders App - Model Binding.dll

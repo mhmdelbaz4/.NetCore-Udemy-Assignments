@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\5.e-commerce Orders App - Model Binding.props" />
+</Project>
